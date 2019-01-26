@@ -6,4 +6,5 @@ package com.iotek.dao;
  * 
  */
 public interface UserLogin {
+	public void login();
 }
